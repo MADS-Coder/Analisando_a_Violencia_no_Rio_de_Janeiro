@@ -1,2 +1,2 @@
-# [Template]_Analisando_a_Violência_no_Rio_de_Janeiro
+# Estudo de Data Science, com o objetido de analisar a violência no Rio de Janeiro
  Analisando a Violência no Rio de Janeiro
